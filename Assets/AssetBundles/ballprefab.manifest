@@ -1,0 +1,37 @@
+ManifestFileVersion: 0
+CRC: 1406796981
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ed1f19565e7ae04c80442f59c41e91f1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 798e69fcf8ecfd006f32af86bfeba0cd
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9c1cb827efa9cbc4aa75fd1adeae8508, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Prefabs/Ball.prefab
+Dependencies: []
